@@ -2,7 +2,7 @@
 lec 5 if statement
 """
 
-#import this
+import this
 
 #print (1+
 #      2)
