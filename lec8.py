@@ -48,9 +48,9 @@ def calculate_f(m):
     else:
         return m*calculate_f(m-1)
         
-print(calculate_f(5))
+#print(calculate_f(5))
 
 def calculate_p(m,n):
     return calculate_f(m)/calculate_f(m-n)
     
-print(calculate_p(6,4))
+#print(calculate_p(6,4))
