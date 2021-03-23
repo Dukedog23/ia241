@@ -28,4 +28,4 @@ share my labs and final project of ia241
 * item 2
 * item 3
 
-[]
+[lab1](https://github.com/Dukedog23/ia241/blob/main/lab1.py)
