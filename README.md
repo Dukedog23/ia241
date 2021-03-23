@@ -19,3 +19,11 @@ share my labs and final project of ia241
 *italicize*
 
 >quote
+
+1.item1
+2.item2
+3.item3
+
+* item 1
+* item 2
+* item 3
