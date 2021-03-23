@@ -15,6 +15,7 @@ share my labs and final project of ia241
 ### level 3 heading
 
 **bold**
+
 *italicize*
 
 >quote
